@@ -1,0 +1,50 @@
+start_test_server_in_background
+start_test_server_in_background
+exit
+start_test_server_in_background
+start_test_server_in_background
+exit
+start_test_server_in_background
+start_
+start_test_server_in_background
+exit
+start_test_server_in_background
+exit
+start_test_server_in_background
+exit
+start_test_server_in_background
+exit
+start_
+start_test_server_in_background
+query("*")
+query("label marked:"UserName"")
+query("label marked:"UserName")
+query("label marked:'UserName'")
+query("label id:'UserName'")
+query("* id:'UserName'")
+query("EditText id:'UserName'")
+query("* id:'UserName'")
+exit
+start_test_server_in_background
+exit
+start_test_server_in_background
+exit
+start_test_server_in_background
+query("*")
+query("label")
+query("label marked:'Username'")
+query("label marked:'UserName'")
+exit
+start_test_server_in_background
+
+start_test_server_in_background
+query("view:'_UIAlertControllerView'  marked:'Sorry...'")
+query("view:'_UIAlertControllerView'  marked:'Sorry...'")
+query("view:'_UIAlertControllerView'  marked:'Sorry.'")
+query("view:'_UIAlertControllerView'  marked:'Sorry...'")
+touch("view:'_UIAlertControllerView'  marked:'Sorry...'")
+touch("view:'_UIAlertControllerView'  marked:'Sorry...'")
+touch("view:'_UIAlertControllerView'")
+query("*")
+touch("label marked:'Cancel'")
+exit

@@ -1,0 +1,2 @@
+droid: PLATFORM=droid -r framework/droid/support --format html --out Droid_Automation.html --format pretty
+ios: PLATFORM=ios -r framework/ios/support --format html --out iOS_Automation.html --format pretty
